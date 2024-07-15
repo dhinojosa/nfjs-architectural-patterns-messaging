@@ -1,4 +1,4 @@
-# Architectural Design Patterns
+# NFJS Architectural Design Patterns - Messaging
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/github.com/dhinojosa/nfjs-architectural-patterns-messaging)
 
